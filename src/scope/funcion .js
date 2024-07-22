@@ -8,3 +8,5 @@ function greeting (){
 }
 greeting();
 console.log(userName);
+
+//Podemos llamar la variable dentro de la funcion unicamente console.log(userName); en este caso nos dara error porque la estamos invocando fuera de la F
