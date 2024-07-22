@@ -1,4 +1,10 @@
+function greeting (){
+    let userName = 'Lulito'
+    console.log(userName);
 
-
-
-console.log('Hola Luli');
+    if (userName === 'Lulito') {
+       console.log(`hello ${userName}`); 
+    }
+}
+greeting();
+console.log(userName);
